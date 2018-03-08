@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_10\oopds_lab_10\main.cpp(20): warning C4101: 'type' :참조되지 않은 지역 변수입니다.
+  OOPDS_LAB_10.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\OOPDS_LAB_10\Debug\OOPDS_LAB_10.exe
+  OOPDS_LAB_10.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\OOPDS_LAB_10\Debug\OOPDS_LAB_10.pdb (Partial PDB)

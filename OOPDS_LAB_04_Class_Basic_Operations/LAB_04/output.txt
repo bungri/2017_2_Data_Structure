@@ -1,0 +1,45 @@
+Initializing student array (num_students: 5)
+StudentArray (Size : 5)
+Student [name :   Ziphp, birth date : 7010. 7. 2., st_id : 20977, dept :   QQR, gpa :  1.05]
+Student [name :   Mokyt, birth date : 4404. 1. 5., st_id : 16830, dept :  BDHI, gpa : 86.15]
+Student [name :   Owcaw, birth date : 6091. 6.20., st_id : 21427, dept :   TRN, gpa : 65.34]
+Student [name :   Loyre, birth date : 1942.11. 5., st_id : 34277, dept :  UBGJ, gpa : 44.59]
+Student [name :  Oeecby, birth date : 5608. 6.12., st_id : 38786, dept :  CVKZ, gpa : 83.18]
+
+
+Sorting studentArray by student id : 
+StudentArray (Size : 5)
+Student [name :   Mokyt, birth date : 4404. 1. 5., st_id : 16830, dept :  BDHI, gpa : 86.15]
+Student [name :   Owcaw, birth date : 6091. 6.20., st_id : 21427, dept :   TRN, gpa : 65.34]
+Student [name :   Ziphp, birth date : 7010. 7. 2., st_id : 20977, dept :   QQR, gpa :  1.05]
+Student [name :   Loyre, birth date : 1942.11. 5., st_id : 34277, dept :  UBGJ, gpa : 44.59]
+Student [name :  Oeecby, birth date : 5608. 6.12., st_id : 38786, dept :  CVKZ, gpa : 83.18]
+
+
+Sorting studentArray by student name : 
+StudentArray (Size : 5)
+Student [name :   Loyre, birth date : 1942.11. 5., st_id : 34277, dept :  UBGJ, gpa : 44.59]
+Student [name :  Oeecby, birth date : 5608. 6.12., st_id : 38786, dept :  CVKZ, gpa : 83.18]
+Student [name :   Mokyt, birth date : 4404. 1. 5., st_id : 16830, dept :  BDHI, gpa : 86.15]
+Student [name :   Owcaw, birth date : 6091. 6.20., st_id : 21427, dept :   TRN, gpa : 65.34]
+Student [name :   Ziphp, birth date : 7010. 7. 2., st_id : 20977, dept :   QQR, gpa :  1.05]
+
+
+Sorting studentArray by GPA : 
+StudentArray (Size : 5)
+Student [name :   Ziphp, birth date : 7010. 7. 2., st_id : 20977, dept :   QQR, gpa :  1.05]
+Student [name :  Oeecby, birth date : 5608. 6.12., st_id : 38786, dept :  CVKZ, gpa : 83.18]
+Student [name :   Loyre, birth date : 1942.11. 5., st_id : 34277, dept :  UBGJ, gpa : 44.59]
+Student [name :   Owcaw, birth date : 6091. 6.20., st_id : 21427, dept :   TRN, gpa : 65.34]
+Student [name :   Mokyt, birth date : 4404. 1. 5., st_id : 16830, dept :  BDHI, gpa : 86.15]
+
+
+Sorting studentArray by BirthDate : 
+StudentArray (Size : 5)
+Student [name :   Loyre, birth date : 1942.11. 5., st_id : 34277, dept :  UBGJ, gpa : 44.59]
+Student [name :  Oeecby, birth date : 5608. 6.12., st_id : 38786, dept :  CVKZ, gpa : 83.18]
+Student [name :   Mokyt, birth date : 4404. 1. 5., st_id : 16830, dept :  BDHI, gpa : 86.15]
+Student [name :   Owcaw, birth date : 6091. 6.20., st_id : 21427, dept :   TRN, gpa : 65.34]
+Student [name :   Ziphp, birth date : 7010. 7. 2., st_id : 20977, dept :   QQR, gpa :  1.05]
+
+

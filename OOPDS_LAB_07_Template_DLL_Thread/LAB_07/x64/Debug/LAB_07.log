@@ -1,0 +1,38 @@
+﻿  Thread_TaskGenerator.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\thread_taskgenerator.cpp(14): warning C4101: 'pTask' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\thread_taskgenerator.cpp(12): warning C4101: 'pFlagThreadTerminate' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\thread_taskgenerator.cpp(21): warning C4101: 'event_handler_addr' :참조되지 않은 지역 변수입니다.
+  Thread_EventHandler.cpp
+  Task_Queue.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(89): error C2143: 구문 오류: ';'이(가) '<template-id>' 앞에 없습니다.
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(87): note: 클래스 템플릿 멤버 함수 'void T_DLL<Task>::add(T_DN<E> *,const E &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              E=Task
+          ]
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(108): note: 컴파일 중인 함수 템플릿 인스턴스화 'void T_DLL<Task>::add(T_DN<E> *,const E &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              E=Task
+          ]
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(43): note: 클래스 템플릿 멤버 함수 'T_DLL<Task>::T_DLL(void)'을(를) 컴파일하고 있습니다.
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\task_queue.cpp(4): note: 컴파일 중인 함수 템플릿 인스턴스화 'T_DLL<Task>::T_DLL(void)'에 대한 참조를 확인하십시오.
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\task_queue.hpp(25): note: 컴파일 중인 클래스 템플릿 인스턴스화 'T_DLL<Task>'에 대한 참조를 확인하세요.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(115): error C2143: 구문 오류: ';'이(가) '<template-id>' 앞에 없습니다.
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(113): note: 클래스 템플릿 멤버 함수 'void T_DLL<Task>::remove(T_DN<E> *)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              E=Task
+          ]
+  c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\t_dll.hpp(133): note: 컴파일 중인 함수 템플릿 인스턴스화 'void T_DLL<Task>::remove(T_DN<E> *)'에 대한 참조를 확인하십시오.
+          with
+          [
+              E=Task
+          ]
+  Task.cpp
+  main.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\main.cpp(32): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\main.cpp(41): warning C4101: 'pTask' :참조되지 않은 지역 변수입니다.
+  ConsoleDisplay.cpp
+  코드를 생성하고 있습니다...
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\consoledisplay.cpp(26): warning C4715: 'gotoxy': 모든 제어 경로에서 값을 반환하지는 않습니다.

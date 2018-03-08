@@ -1,0 +1,13 @@
+﻿  main.cpp
+  Graph.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\graph.cpp(29): warning C4101: 'pVtx' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\graph.cpp(80): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  DepthFirstSearch.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\depthfirstsearch.cpp(54): warning C4101: 'vtx_2_ID' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\depthfirstsearch.cpp(54): warning C4101: 'vtx_1_ID' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\depthfirstsearch.cpp(133): warning C4101: 'pVtx' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\depthfirstsearch.cpp(166): warning C4101: 'pVtx' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_11\oopds_lab_11\depthfirstsearch.cpp(199): warning C4101: 'pVtx' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  OOPDS_LAB_11.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\OOPDS_LAB_11\Debug\OOPDS_LAB_11.exe
+  OOPDS_LAB_11.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\OOPDS_LAB_11\Debug\OOPDS_LAB_11.pdb (Partial PDB)

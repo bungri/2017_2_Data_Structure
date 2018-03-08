@@ -1,0 +1,14 @@
+﻿  Task_Queue.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  main.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\main.cpp(32): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\main.cpp(41): warning C4101: 'pTask' :참조되지 않은 지역 변수입니다.
+  Thread_TaskGenerator.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\thread_taskgenerator.cpp(14): warning C4101: 'pTask' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\thread_taskgenerator.cpp(12): warning C4101: 'pFlagThreadTerminate' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\oopds_lab_07\lab_07\lab_07\thread_taskgenerator.cpp(21): warning C4101: 'event_handler_addr' :참조되지 않은 지역 변수입니다.
+  Thread_EventHandler.cpp
+  코드를 생성하고 있습니다...
+  LAB_07.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\OOPDS_LAB_07\LAB_07\Debug\LAB_07.exe
+  LAB_07.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\OOPDS_LAB_07\LAB_07\Debug\LAB_07.pdb (Partial PDB)

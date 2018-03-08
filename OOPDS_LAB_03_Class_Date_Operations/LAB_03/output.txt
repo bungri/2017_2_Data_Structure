@@ -1,0 +1,68 @@
+Date [2017.12.31, Today(Sunday)]
+
+Sorry this year's Christmas was 6 days before !!
+
+dates[0] = today;
+Date [2017.12.31, Today(Sunday)]
+
+
+dates[1] = ++today;
+Date [2018. 1. 1, dates[1](Monday)]
+
+Currently Date [2018. 1. 1, Today(Monday)]
+
+
+dates[2] = today++;
+Date [2018. 1. 1, dates[2](Monday)]
+
+Currently Date [2018. 1. 2, Today(Tuesday)]
+
+
+dates[3] = today--;
+Date [2018. 1. 2, dates[3](Tuesday)]
+
+Currently Date [2018. 1. 1, Today(Monday)]
+
+
+dates[4] = --today;
+Date [2017.12.31, dates[4](Sunday)]
+
+Currently Date [2017.12.31, Today(Sunday)]
+
+
+Before sorting dates: 
+Date [2017.12.31, Today(Sunday)]
+
+Date [2018. 1. 1, dates[1](Monday)]
+
+Date [2018. 1. 1, dates[2](Monday)]
+
+Date [2018. 1. 2, dates[3](Tuesday)]
+
+Date [2017.12.31, dates[4](Sunday)]
+
+Date [2017. 1. 1, New Year's Day(Sunday)]
+
+Date [2017.12.25, Christmas(Monday)]
+
+Date [   1. 1. 1, AD010101(Monday)]
+
+
+After sorting dates: 
+Date [   1. 1. 1, AD010101(Monday)]
+
+Date [2017. 1. 1, New Year's Day(Sunday)]
+
+Date [2017.12.25, Christmas(Monday)]
+
+Date [2017.12.31, dates[4](Sunday)]
+
+Date [2017.12.31, Today(Sunday)]
+
+Date [2018. 1. 1, dates[1](Monday)]
+
+Date [2018. 1. 1, dates[2](Monday)]
+
+Date [2018. 1. 2, dates[3](Tuesday)]
+
+

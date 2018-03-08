@@ -1,0 +1,16 @@
+﻿  Triangle.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\lab_05\lab_05\triangle.cpp(44): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\lab_05\lab_05\triangle.cpp(46): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\lab_05\lab_05\triangle.cpp(48): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shape.cpp
+  Rectang.cpp
+  Position.cpp
+  Polygon.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\lab_05\lab_05\polygon.cpp(27): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_02_lab\lab_05\lab_05\polygon.cpp(28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  ConsolePixelDrawing.cpp
+  Circle.cpp
+  코드를 생성하고 있습니다...
+  LAB_05.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\LAB_05\x64\Debug\LAB_05.exe
+  LAB_05.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_02_LAB\LAB_05\x64\Debug\LAB_05.pdb (Partial PDB)
